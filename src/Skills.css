@@ -1,0 +1,33 @@
+﻿.Skills {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+.Skills h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.Skills p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.Skills-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Skills-list li {
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.Skills-list strong {
+  font-weight: bold;
+}

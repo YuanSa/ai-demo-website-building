@@ -1,0 +1,11 @@
+﻿@media print {
+  .Header,
+  .Footer,
+  .TOC {
+    display: none;
+  }
+
+  .Project {
+    page-break-inside: avoid;
+  }
+}

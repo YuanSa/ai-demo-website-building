@@ -1,0 +1,34 @@
+﻿.Projects {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+.Projects h1 {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.Projects p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.Projects-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.Projects-list li {
+  margin-bottom: 2rem;
+}
+
+.Projects-list h2 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}

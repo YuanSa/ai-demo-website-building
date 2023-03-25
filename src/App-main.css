@@ -1,0 +1,8 @@
+﻿.App-main {
+  background-color: #f4f4f4;
+  padding: 2rem;
+  min-height: calc(100vh - 2 * (1rem + 2rem));
+  max-width: 1200px;
+  margin: 0 auto;
+}
+

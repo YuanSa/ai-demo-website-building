@@ -1,0 +1,28 @@
+﻿.Contact {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'San Francisco', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #333;
+  line-height:1.6;
+}
+
+.Contact h1 {
+font-size: 2.5rem;
+font-weight: bold;
+margin-bottom: 1rem;
+}
+
+.Contact p {
+font-size: 1.2rem;
+margin-bottom: 2rem;
+}
+
+.Contact a {
+color: #0070c9;
+text-decoration: none;
+}
+
+.Contact a:hover {
+text-decoration: underline;
+}

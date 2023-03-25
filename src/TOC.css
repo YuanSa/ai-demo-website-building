@@ -1,0 +1,29 @@
+﻿.toc {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #f8f9fa;
+  padding: 1rem 0;
+}
+
+.toc ul {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.toc li {
+  margin: 0 0.5rem;
+}
+
+.nav-link {
+  color: #495057;
+  font-size: 1.1rem;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}

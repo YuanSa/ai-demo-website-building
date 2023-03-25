@@ -25,3 +25,7 @@ But now I have no access to the plug-in - event the GPT-4 model's quota is still
 Keep learning, open to changes, explore boundaries.
 
 Best wishes to you all.
+
+## Appendix
+
+For the hole conversation session, I put it here: `./conversation.md`.
